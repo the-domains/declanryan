@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[declanryan]]></title>
+        <description><![CDATA[declanryan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 01:45:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Declan A. Ryan</p>]]></description>
+            <link>undefineddeclan-a-ryan/index.html</link>
+            <guid isPermaLink="false">d6764101-da58-4d5b-9a78-88c499898fe8</guid>
+            <pubDate>Sat, 02 Jul 2016 01:45:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
